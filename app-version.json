@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.3",
-  "latest_build": 4,
+ "latest_version": "1.0.0",
+"latest_build": 1
   "force_update": false,
   "apk_url": "https://github.com/ineedgold2020-lgtm/awaladragapppp2/releases/download/v1.0.3/app-release.apk",
   "message": "يوجد تحديث جديد للتطبيق",
@@ -9,3 +9,4 @@
     "تحسين شكل التصنيفات"
   ]
 }
+
